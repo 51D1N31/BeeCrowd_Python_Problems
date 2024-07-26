@@ -1,3 +1,3 @@
-print('Hello Word')
+teste_variavel = 1
 
-outro_teste = 1
+print("Hello Word")
